@@ -31,7 +31,7 @@ function App() {
 
 
 
-{/* <p>Random quote machine</p> */}
+
 <div className='quote-box'>
 
 
